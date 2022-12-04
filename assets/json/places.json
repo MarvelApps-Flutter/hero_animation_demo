@@ -1,0 +1,168 @@
+[
+    {
+        "name":"The Red Fort",
+        "nearestMetro": "Chandni Chowk Metro Station",
+        "entryFeeIndian":"₹ 35",
+        "entryFeeNonIndian":"₹ 550",
+        "timings":"9.30 AM to 4.30 PM",
+        "closedOnDays":"Monday",
+        "image":"assets\/images\/delhiPlacesImage\/redFortImage.jpg",
+        "address":"Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi 110006",
+        "description":"The beautiful Red Fort was built by Shah Jahan in 1648 and served as the seat of Mughal power until 1857. This stunning structure, with its tall, red sandstone walls covers an area of more than two square kilometers, the entirety of which is crescent shaped and surrounded by a moat. The impressive main entrance, the Lahore Gate, is so named as it faces towards Lahore in Pakistan, while the even grander Delhi Gate was used by the emperor for ceremonial processions.Entering through the Lahore Gate, visitors reach Chhatta Chowk, a 17th-century covered bazaar where items such as silks, jewelry, gems, and silverware can be purchased, along with souvenirs and food items. The Naubat Khana within the Red Fort once housed the musicians who played for the emperor, and its fine galleries still contain many interesting musical instruments such as kettledrums, gongs, and cymbals. Diwan-i-Am, the Hall of Public Audiences, where the emperor would receive his subjects, is also worth seeing for its stunning white marble."
+    },
+    {
+        "name":"Qutub Minar",
+        "nearestMetro":"Qutub Minar Metro Station",
+        "entryFeeIndian":"₹ 40",
+        "entryFeeNonIndian":"₹ 600",
+        "timings":"7:00 AM – 5:00 PM",
+        "closedOnDays":"None",
+        "image":"assets\/images\/delhiPlacesImage\/qutubMinarImage.jpg",
+        "address":"Kalka Das Marg, Mehrauli, New Delhi, Delhi, 110030, India",
+        "description":"One of the most popular places to see in Delhi, Qutub Minar (Hindi: क़ुतुब मीनार, Urdu: قطب مینار) is a UNESCO World Heritage Site, presenting a glimpse into the grandeur of the past. Owing to its worldwide popularity Qutub Minar has become an integral part of every Delhi Tour. Delhi Qutub Minar boasts of being one of the tallest minarets in the world as the height of Qutub Minar is 72.5 meters. Built in 1192 by Qutab-ud-din Aibak, it is considered to be first building, marking the arrival of Muslim rulers in the country. Although there are also a few contradicting theories on the same. Surrounded by an appealing garden, Qutub Minar creates a sight worth remembering. "
+    },
+    {
+        "name":"Gurudwara Bangla Sahib",
+        "nearestMetro":"Ravij Chowk Metro and Patel Chowk Metro",
+        "entryFeeIndian":"Free",
+        "entryFeeNonIndian":"Free",
+        "timings":"24X7 including holidays",
+        "closedOnDays":"None",
+        "image":"assets\/images\/delhiPlacesImage\/gurudwaraBanglaSahibImage.jpg",
+        "address":"Ashoka Road, Hanuman Road Area, Connaught Place, New Delhi, Delhi 110001",
+        "description":"Delhi's most important Sikh place of worship, the 18th-century Gurdwara Bangla Sahib is near Connaught Place and is well worth a visit. Highlights include its magnificent pool, the Sarovar, at the heart of this large complex, as well as its famous gold dome and flagpole. Also of note is the large temple building itself, along with its art gallery and a small museum dedicated to the history of the Sikh religion. Visitors are always welcome here, and an excellent meal is available at no cost in the large Gurdwara Kitchen-all that is asked in return is your hair be covered and shoes removed (free headscarves and shoe storage are provided)."
+    },
+    {
+        "name":"The Lotus Temple",
+        "nearestMetro":"Kalkaji Mandir Metro Station",
+        "entryFeeIndian":"Free",
+        "entryFeeNonIndian":"Free",
+        "timings":"Winter - 9:30 AM - 5:00 PM & Summer - 9:30 AM - 7:00 PM",
+        "closedOnDays":"Monday",
+        "image":"assets\/images\/delhiPlacesImage\/lotusTempleImage.jpg",
+        "address":"Lotus Temple Road, Shambhu Dayal Bagh, Bahapur, New Delhi, Delhi 110019",
+        "description":"The magnificent Bahá'í House of Worship, also known as the Lotus Temple due to its nine sides and stunning central dome, is an architectural masterpiece. Constructed of white concrete and marble, the entire structure looks as delicate as the flower it resembles. Rising from the surrounding nine pools of water, it almost appears as if it might burst into bloom at any moment. Built in 1986, the temple has since attracted more than 70 million visitors, making it one of the world's most visited attractions (interestingly, this remarkable place of worship has no idols, religious pictures, or outward symbols of religion)."
+    },
+    {
+        "name":"India Gate",
+        "nearestMetro":"Central Secretariat Metro Station",
+        "entryFeeIndian":"Free",
+        "entryFeeNonIndian":"Free",
+        "timings":"7:00 AM - 11:59 PM",
+        "closedOnDays":"None",
+        "image":"assets\/images\/delhiPlacesImage\/indiaGateImage.jpg",
+        "address":"Rajpath, India Gate, New Delhi, Delhi 110001",
+        "description":"Looking a little like the famous Arc de Triomphe in Paris, the equally impressive India Gate is a magnificent stone arch built as a memorial to Indian soldiers killed in WWI. An eternal flame burns beneath the massive structure, and its walls are inscribed with the names of more than 90,000 soldiers who died in the conflict. Standing on a base of red stone and featuring a shallow domed bowl on top that is occasionally filled with burning oil (usually only on important anniversaries), the structure dominates the parkland around it, an always busy area with crowds of tourists and locals alike enjoying a picnic or simply relaxing. For a real treat, try to see the India Gate at night, considered one of the top free things to do in New Delhi; it's a spectacular sight when it and nearby fountains are floodlit."
+    },
+    {
+        "name":"Jama Masjid",
+        "nearestMetro":"Jama Masjid Metro Station",
+        "entryFeeIndian":"Free",
+        "entryFeeNonIndian":"Free",
+        "timings":"7:00 AM - 12:00 PM & 1:30 PM - 6:30 PM",
+        "closedOnDays":"None",
+        "image":"assets\/images\/delhiPlacesImage\/jamaMaszidImage.jpg",
+        "address":"Chandni Chowk, New Delhi, Delhi",
+        "description":"The Jama Masjid is one of India's largest mosques and was the final architectural feat of Shah Jahan. Completed in 1658, this beautiful structure features three gateways, four angled towers, and two 40-meter-high minarets built using red sandstone and white marble and attractively alternated in vertical stripes. Visitors can climb to the top of the southern minaret for spectacular views of Old Delhi, and afterwards visit the large central pool used for washing before prayers (visitors must take off their shoes and be appropriately dressed before entering; non-Muslims aren't permitted during prayers)."
+    },
+    {
+        "name":"Humayun's Tomb",
+        "nearestMetro":"Jor Bagh Metro Station",
+        "entryFeeIndian":"₹ 30",
+        "entryFeeNonIndian":"₹ 500",
+        "timings":"6:00 AM to 6:00 PM",
+        "closedOnDays":"None",
+        "image":"assets\/images\/delhiPlacesImage\/humayunTombImage.jpg",
+        "address":"Mathura Road, Nizamuddin, New Delhi, Delhi 110001",
+        "description":"Set in a lovely, large square garden, Humayun's Tomb is a lofty mausoleum constructed of white marble and red sandstone. It was designed as a prototype of the Taj Mahal in Agra and is an excellent example of Mughal architecture. Built in the mid-16th century by Haji Begum as a memorial to her husband by Humayun's senior widow, the tomb is surrounded by lush formal gardens and other tombs including Humayun's barber and the Tomb of Isa Khan (the architect of the Taj Mahal), a fine example of Lodi architecture and octagonal in shape. A fun thing to do is to try and catch a glimpse of this spectacular structure after nightfall when it's illuminated."
+    },
+    {
+        "name":"Akshardham",
+        "nearestMetro":"Akshardham Metro Station",
+        "entryFeeIndian":"Free",
+        "entryFeeNonIndian":"Free",
+        "timings":"10:00 AM to 6:00 PM",
+        "closedOnDays":"Monday",
+        "image":"assets\/images\/delhiPlacesImage\/akshardhamImage.jpg",
+        "address":"Noida Mor, New Delhi, Delhi 110092",
+        "description":"Although only recently completed (it opened in 2007), the splendid Hindu Akshardham temple looks like it could be centuries old. Festooned with intricate and elaborate carvings, this magnificent building attracts countless visitors for its majestic beauty. Highlights include the stunning 43-meter-high main monument with its rich carvings of animals, plants, gods, dancers, and musicians, all made from pink sandstone and marble. Of particular note are the 234 ornate pillars supporting its nine domes, as well as a stunning stone tribute to elephants, the centerpiece of which is a massive 3,000-ton statue of one of these beasts. Other features of interest include a theater showing a movie tracing the building's construction, a fun 15-minute boat ride depicting India's rich history and diverse culture, and the spectacular Yagnapurush Kund, a large musical fountain that is a particular treat when lit up at night."
+    },
+    {
+        "name":"Purana Qila (The Old Fort)",
+        "nearestMetro":"Pragati Maidan Metro Station",
+        "entryFeeIndian":"₹ 20",
+        "entryFeeNonIndian":"₹ 200",
+        "timings":"7:00 AM to 5:00 PM",
+        "closedOnDays":"None",
+        "image":"assets\/images\/delhiPlacesImage\/puranaQilaImage.jpg",
+        "address":"Mathura Road, New Delhi, Delhi 110003",
+        "description":"Although often overlooked, as most tourists head straight for the more famous Red Fort, Purana Qila (Old Fort) is well-worth squeezing into your Delhi travel itinerary. Boasting a past that stretches back some 2,500 years, much of the current impressive edifice dates back to the 1500s, although evidence of earlier structures dating back to the 3rdcentury have been discovered. The present structure played an important role in the region's affairs for centuries and was particularly influenced by the Muslim religion, as evidenced by building's such as the Qila-i-Kuna Mosque, a single-dome place of worship built in 1541. The site covers an area of two square kilometers, and you'll enjoy exploring its thick ramparts and three large gates, an especially impressive sight during the nightly illuminations. The 200-acre Mehrauli Archaeological Park is also worthy of a visit and features numerous important structures, some of which date back more than 1,000 years. Highlights include the old ruins of Lal Kot, along with more recent evidence of occupation by the British during the reign of Queen Victoria."
+    },
+    {
+        "name":"Rajpath and Rashtrapati Bhavan",
+        "nearestMetro":"Central Secretariat Metro Station",
+        "entryFeeIndian":"Free",
+        "entryFeeNonIndian":"Free",
+        "timings":"24X7 ",
+        "closedOnDays":"None",
+        "image":"assets\/images\/delhiPlacesImage\/rajpathImage.jpg",
+        "address":"Gates 30 & 35, President's Estate, New Delhi, Delhi 110004",
+        "description":"Rajpath, also known as the King's Way, is New Delhi's traditional ceremonial boulevard. Running from Rashtrapati Bhavan, the official presidential residence, past such important city landmarks as Vijay Chowk and India Gate all the way to the National Stadium, this broad avenue is flanked by trees, grass, and ponds and comes alive each January 26th during the Republic Day Parade, when countless thousands gather to celebrate the anniversary of the country's independence. At the western end of Rajpath, the President's Residence-the Rashtrapati Bhavan (once the British Viceroy's residence)-is undoubtedly one of the most magnificent buildings in Delhi, an eclectic mix of Mughal and European architectural styles that contains some 340 richly decorated rooms. Of particular interest is the new Rashtrapati Bhavan Museum, which offers a glimpse inside the building, along with interesting displays relating to past presidents. "
+    },
+    {
+        "name":"Raj Ghat",
+        "nearestMetro":"Indraprastha on Blue Line and Chandani Chowk on Yellow Line",
+        "entryFeeIndian":"Free",
+        "entryFeeNonIndian":"Free",
+        "timings":"6:30 AM – 6:00 PM",
+        "closedOnDays":"None",
+        "image":"assets\/images\/delhiPlacesImage\/rajghatImage.jpg",
+        "address":"5 Tees January Marg, New Delhi, Delhi 110011",
+        "description":"Numerous references can be found to Mahatma Gandhi throughout Delhi, a testament to the man's legacy. Of the many attractions related to the famed leader of the Indian independence movement, perhaps the best is Gandhi Smriti (Gandhi Remembrance), a museum housed in the property where he was assassinated in 1948. Highlights include displays and memorabilia relating to both his life and death, including the room in which he stayed, left exactly as it was at the time, as well as the new Eternal Gandhi Multimedia Museum with historical records detailing his many achievements. A particular highlight is the chance to stroll the very same gardens where Gandhi once spent so much time (the place where the shooting occurred is marked by the Martyr's Column). Also of interest is the Raj Ghat memorial to Gandhi just a few minutes' walk away on the spot where he was cremated."
+    },
+    {
+        "name":"The Jantar Mantar Observatory",
+        "nearestMetro":"Janpath Metro Station- Violet Line, Patel Chowk Metro Station- Yellow Line, Rajiv Chowk Metro Station- Yellow/Blue Line",
+        "entryFeeIndian":"₹ 15",
+        "entryFeeNonIndian":"₹ 200",
+        "timings":"6:00 AM – 6:00 PM",
+        "closedOnDays":"None",
+        "image":"assets\/images\/delhiPlacesImage\/jantarMantarImage.jpg",
+        "address":"Sansad Marg, Connaught Place, New Delhi, Delhi 110001",
+        "description":"Near Connaught Place, one of New Delhi's largest and best-known business districts, Jantar Mantar is one of five astronomical observatories constructed by Maharajah Jai Singh I in 1725. Designed to enable occupants to observe the movements of the sun, moon, and planets, this well-preserved historic site also boasts several other old instruments on display that were once used to track the course of heavenly bodies and predict eclipses. Highlights of this remarkable and architecturally pleasing building include an enormous sundial known as the Prince of Dials."
+    },
+    {
+        "name":"The Indira Gandhi Memorial Museum",
+        "nearestMetro":"Lok Kalyan Marg Metro Station",
+        "entryFeeIndian":"Free",
+        "entryFeeNonIndian":"Free",
+        "timings":"9:30 AM - 5:00 PM",
+        "closedOnDays":"Monday",
+        "image":"assets\/images\/delhiPlacesImage\/indiraGandhiMemorialImage.jpg",
+        "address":"1 Safdarjung Road, New Delhi, Delhi 110011",
+        "description":"Another important politician-related attraction is the Indira Gandhi Memorial Museum, housed in the former residence of this much-revered woman (Indira was the daughter of India's first Prime Minister, Jawaharlal Nehru, and although a friend of Mahatma Gandhi, was unrelated). Highlights include photos documenting her life and time as prime minister, personal belongings such as the sari she was wearing at the time of her assassination, along with news clippings and letters. An enclosed garden with mature trees and flowering plants surrounds the building, and its pathway is now a memorial, with the spot where she was assassinated clearly marked. Several rooms have been dedicated to her son, Rajiv Gandhi, who was assassinated in 1991. Indira Gandhi's father, Nehru, is the subject of the equally interesting Nehru Museum and Planetarium (Teen Murti Bhavan) set in his former residence. The museum presents the leader's life and works, including interesting items pertaining to the struggle for freedom, with highlights including his bedroom, drawing room, and the study housing displays depicting highlights of his career."
+    },
+    {
+        "name":"The National Museum, New Delhi",
+        "nearestMetro":"Central Secretariat Metro Station",
+        "entryFeeIndian":"₹ 10",
+        "entryFeeNonIndian":"₹ 300",
+        "timings":"10 AM – 5 PM",
+        "closedOnDays":"Monday",
+        "image":"assets\/images\/delhiPlacesImage\/nationalMuseumImage.jpg",
+        "address":"Janpath Road, Rajpath Area, Central Secretariat, New Delhi, Delhi 110001",
+        "description":"The galleries of the National Museum, New Delhi-one of the largest museums in India-follow a historical sequence, with all major periods represented. Highlights include archeological finds, along with exhibits of terra-cotta toys, images and pots, jewelry, seals, bronze and copper implements, sculpture, musical instruments, tapestry, tribal masks, swords, and murals. The most significant gallery is the Central Asian exhibit including silk banners and wall paintings, sculptures, and artifacts related to life along the ancient Silk Route that stretched between Europe and China. (Audio guides are available.) Other museums worth visiting include the National Science Centre, one of the world's largest science centers, and the impressive National Museum of Natural History with its focus on the country's rich flora and fauna. Also notable is the National Gallery of Modern Art (NGMA), which houses the country's most important art collections. Opened in 1954, its more than 14,000 artworks include pieces from leading Indian artists from the 1850s onwards."
+    },
+    {
+        "name":"Laxminarayan Temple",
+        "nearestMetro":"RK Ashram Marg Metro Station",
+        "entryFeeIndian":"Free",
+        "entryFeeNonIndian":"Free",
+        "timings":"4:30 AM – 1 PM, 2:30 PM – 9 PM",
+        "closedOnDays":"None",
+        "image":"assets\/images\/delhiPlacesImage\/laxmiNarayanTempleImage.jpg",
+        "address":"Mandir Marg, Near, Gole Market, New Delhi, Delhi",
+        "description":"If you're able to squeeze just one more temple into your Delhi sightseeing itinerary, make it Laxminarayan Temple (Birla Mandir). It's also one of the newest such sites in the city. This impressive looking Hindu place of worship was opened by Mahatma Gandhi in 1939 in Connaught Place as a dedication to the goddess of prosperity, Laxmi (shrines dedicated to other faiths are also included on the site, a condition stipulated by Gandhi). Spread across nearly eight acres, the grounds are a delight to explore, and feature lush tropical gardens, fountains, and sculptures."
+    }
+    
+]
